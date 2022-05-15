@@ -3,7 +3,6 @@ import Pagination from "components/Pagination";
 function Listing() {
   return (
     <>
-      Listing
       <Pagination />
       <div className="container">
         <div className="row">
