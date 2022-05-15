@@ -24,7 +24,7 @@ https://dsmovieapi.herokuapp.com/
 
 ### Endpoints
 
-![](https://github.com/willamys/person-api-proj/blob/master/images/Screenshot%20from%202021-10-18%2011-41-14.png)
+![](https://github.com/willamys/dsmovie/blob/main/backend/Screenshot%20from%202022-05-15%2014-59-20.png)
  
 
 ### Padrões de Projetos explorados
