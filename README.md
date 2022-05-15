@@ -10,10 +10,10 @@ https://stunning-semolina-51ee3f.netlify.app/
 
 ## Backend
 
-You can access the code in the [repo](https://github.com/willamys/dsmovie/backend).
+You can access the code in the [repo](https://github.com/willamys/dsmovie/tree/main/backend.
 Clone the repo and follow the stpes to build de app.
 
 ## Frontend
 
-You can access the code in the [repo](https://github.com/willamys/dsmovie/frontend).
+You can access the code in the [repo](https://github.com/willamys/dsmovie/tree/main/frontend).
 Clone the repo and follow the stpes to build de app.
