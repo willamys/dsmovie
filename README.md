@@ -1,8 +1,8 @@
 # DSMovies API REST com Spring Boot + React
 
-It's a small system to manager movies. The user can set a score for movie.
+It's a small system to manage movies. The user can set the score for a movie.
 
-## Link da aplicação publicada no Netlify:
+## Link for app published on Netlify:
 
 ```
 https://stunning-semolina-51ee3f.netlify.app/
