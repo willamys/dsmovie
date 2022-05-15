@@ -60,5 +60,5 @@ Abaixo, seguem links sobre tópicos utilizados no desenvolvimento:
 
 ## Frontend
 
-You can access the code in the [repo](https://github.com/willamys/spring-boot-ui-react).
+You can access the code in the [repo](https://github.com/willamys/dsmovie/frontend).
 Clone the repo and follow the stpes to build de app.
